@@ -1,0 +1,15 @@
+Revisi modul 4 :
+1. open CMD (Command Prompt)
+2. Type 'ver'
+-----------------------------
+5. go to drive c:
+10. create text document
+13. rename your text document use 'ren' command (note: pay attention to your document's name and extension)
+14. ~
+24. NOTE : pay attention to your drive in windows explorer!!
+28. cd Users
+29. cd 'username' (according to the user name on your computer)
+43. 'rmdir' use for delete your directory
+
+
+
