@@ -14,3 +14,15 @@ Revisi modul 4 :
 
 
 
+1. buka CMD (Command Prompt)
+2. Ketik 'ver'
+-----------------------------
+5. pergi ke drive c:
+10. buat folder baru (jika folder sudah ada, hapus dan buat ulang).
+     klik kanan pada area kosong - dokumen teks baru
+13. mengubah nama dokumen teks Anda menggunakan perintah 'ren' (perhatikan: perhatikan nama dan ekstensi dokumen Anda)
+14. ~
+24. CATATAN: perhatikan drive Anda di windows explorer !!
+28. ketikan cd Users
+29. ketikan cd 'username' (sesuai dengan nama pengguna di komputer Anda)
+43. 'rmdir' digunakan untuk menghapus direktori Anda
