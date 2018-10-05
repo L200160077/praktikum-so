@@ -3,7 +3,8 @@ Revisi modul 4 :
 2. Type 'ver'
 -----------------------------
 5. go to drive c:
-10. create text document
+10. create new folder (if the folder already exists, delete and re-create it).
+    right clik empty are - new - text document
 13. rename your text document use 'ren' command (note: pay attention to your document's name and extension)
 14. ~
 24. NOTE : pay attention to your drive in windows explorer!!
